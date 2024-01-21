@@ -1,8 +1,10 @@
 <h1 align="center">Hello, I'm Sonu Gupta</h1>
 <h3 align="center">A passionate Devops Engineer from Bangalore, India</h3>
-<div align="center"> <img src=https://github.com/sonu101gupta/sonu101gupta/blob/main/1.png> </div>
+<div align="center"> <img src="https://github.com/sonu101gupta/sonu101gupta/blob/main/1.png"> </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonu101gupta&label=Profile%20views&color=0e75b6&style=flat" alt="sonu101gupta" /> </p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jaiswaladi246&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
 - 🔭 I’m currently working on **Kubernetes Projects**
 
