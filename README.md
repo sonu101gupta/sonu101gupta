@@ -22,7 +22,7 @@
   <h3 align="left">Connect with me:</h3>
   <p align="left">
     <a href="https://twitter.com/sonugupta393491" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sonugupta393491" height="30" width="40" /></a>
-    <a href="sonu101gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sonu101gupta/" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/sonu101gupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sonu101gupta/" height="30" width="40" /></a>
     <a href="https://instagram.com/sonu_gupta_27.03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sonu_gupta_27.03" height="30" width="40" /></a>
     <a href="https://www.leetcode.com/sonugupta0101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sonugupta0101" height="30" width="40" /></a>
   </p>
