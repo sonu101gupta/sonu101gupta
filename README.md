@@ -1,6 +1,9 @@
 <h1 align="center">Greetings! I'm Sonu Gupta</h1>
 <h3 align="center">A dedicated DevOps Engineer based in Bangalore, India</h3>
-<div align="center"> <img src="https://github.com/sonu101gupta/sonu101gupta/blob/main/1.png"> </div>
+<div align="center" style="padding: 20px;">
+  <img src="https://github.com/sonu101gupta/sonu101gupta/blob/main/1.png" style="width: 100%; max-width: 500px;height: 50%; max-height: 200px">
+</div>
+
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
