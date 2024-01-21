@@ -36,12 +36,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonu101gupta&show_icons=true&locale=en&layout=compact" alt="sonu101gupta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonu101gupta&show_icons=true&locale=en" alt="sonu101gupta" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonu101gupta&" alt="sonu101gupta" /></p>
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonu101gupta&show_icons=true&locale=en&rank_icon=github" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonu101gupta&" alt="sonu101gupta" /></p>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sonu101gupta&limit=5&theme=flat&combine_all_yearly_contributions=true)
