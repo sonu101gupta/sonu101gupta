@@ -39,7 +39,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonu101gupta&show_icons=true&locale=en" alt="sonu101gupta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonu101gupta&" alt="sonu101gupta" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonu101gupta&show_icons=true&locale=en" alt="sonu101gupta" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonu101gupta&show_icons=true&locale=en&rank_icon=github" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonu101gupta&" alt="sonu101gupta" /></p>
 
