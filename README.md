@@ -43,3 +43,5 @@
     <img src="https://github-contributor-stats.vercel.app/api?username=sonu101gupta&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
   </div>
 </div>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonu101gupta&" alt="sonu101gupta" /></p>
