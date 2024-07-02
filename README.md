@@ -1,6 +1,6 @@
 <div align="center" style="padding: 20px; border: 2px solid #000; border-radius: 10px;">
   <h1>Greetings! I'm Sonu Gupta</h1>
-  <h3>A dedicated DevOps Engineer based in Bangalore, India</h3>
+  <h3>A dedicated Full Stack Developer and DevOps Enthusiast based in Bangalore, India</h3>
   <img src="https://github.com/sonu101gupta/sonu101gupta/blob/main/1.png" style="width: 100%; max-width: 500px;height: 50%; max-height: 200px">
 </div>
 
